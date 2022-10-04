@@ -39,7 +39,7 @@ bot.on('login',function(){
 	   task(i); 
 	} 
 	console.log("Logged In")
-	bot.chat("Ciao");
+	bot.chat("");
 });
   
 function task(i) { 
